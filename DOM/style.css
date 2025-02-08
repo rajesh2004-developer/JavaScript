@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3rem;
+  color: teal;
+  font-weight: bold;
+}
+pre {
+  font-size: 2.5rem;
+}
+.color-pre {
+  color: teal;
+}
+
+pre span {
+  color: rgb(4, 255, 255);
+}
